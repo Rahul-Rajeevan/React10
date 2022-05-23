@@ -1,0 +1,18 @@
+.q1{
+    width:400px;
+    height: auto;
+    background: #cecece;
+}
+.q2{
+    margin: auto;
+    width:300px;
+}
+.q4{
+    width:250px;
+    margin-left: -30px;
+    display: flex;
+    justify-content: space-between;
+}
+.input{
+    width:250px;
+}
